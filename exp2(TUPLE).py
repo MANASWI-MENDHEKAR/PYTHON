@@ -1,10 +1,10 @@
 #CREATION OF TUPLE
-#l=(45,67,75,76,765,"hi","blah")
-#print(l)
+l=(45,67,75,76,765,"hi","blah")
+print(l)
 
 #INDEXING OF TUPLE
 
-'''l=(45,67,75,76,765,"hi","blah")
+l=(45,67,75,76,765,"hi","blah")
 print(l.index(76))
 
 #SLICING OF TUPLE
@@ -22,7 +22,7 @@ print(l+m)
 
 l=(45,67,75,76,765,"hi","blah")
 #m=(32.45,65,7,876,653,"haha","gdh")
-print(l*3)  '''
+print(l*3)  
 
 
 
